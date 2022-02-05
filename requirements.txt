@@ -1,6 +1,7 @@
 Django
 djangorestframework
 psycopg2
+Pillow
 
 flake8
 
