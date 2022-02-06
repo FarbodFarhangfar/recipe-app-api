@@ -1,8 +1,10 @@
 # recipe-app-api
-recipe app api source code
+recipe-app API  source code
 
-project for a cooking platform
+project for a cooking recipes platform
 
-using django and rest framework api and postgresql database
+using **django and rest framework** api and **postgresql** database
 
-project is test driven programming and uses docker  environment
+project is **test-driven** programming and uses **docker**  environment
+
+you can create users, tag, filter , list data
